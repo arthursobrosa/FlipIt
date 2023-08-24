@@ -11,6 +11,21 @@
 		68BCCDD72A96B6FC00F9B7C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDD62A96B6FC00F9B7C2 /* ContentView.swift */; };
 		68BCCDD92A96B6FC00F9B7C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68BCCDD82A96B6FC00F9B7C2 /* Assets.xcassets */; };
 		68BCCDDC2A96B6FC00F9B7C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68BCCDDB2A96B6FC00F9B7C2 /* Preview Assets.xcassets */; };
+		68BCCDE32A96B7EF00F9B7C2 /* OnBoarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDE22A96B7EF00F9B7C2 /* OnBoarding.swift */; };
+		68BCCDE52A97A22F00F9B7C2 /* CreateFlashcardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDE42A97A22F00F9B7C2 /* CreateFlashcardView.swift */; };
+		68BCCDE72A97A25E00F9B7C2 /* ExemplosUserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDE62A97A25E00F9B7C2 /* ExemplosUserDefaults.swift */; };
+		68BCCDE92A97A28000F9B7C2 /* DeckListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDE82A97A28000F9B7C2 /* DeckListView.swift */; };
+		68BCCDEB2A97A29A00F9B7C2 /* DeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDEA2A97A29A00F9B7C2 /* DeckView.swift */; };
+		68BCCDED2A97A2BF00F9B7C2 /* FlashcardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDEC2A97A2BF00F9B7C2 /* FlashcardView.swift */; };
+		68BCCDF02A97A30500F9B7C2 /* LoadDecksFromJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDEF2A97A30500F9B7C2 /* LoadDecksFromJson.swift */; };
+		68BCCDF22A97A32B00F9B7C2 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDF12A97A32B00F9B7C2 /* Deck.swift */; };
+		68BCCDF52A97A37D00F9B7C2 /* deckData.json in Resources */ = {isa = PBXBuildFile; fileRef = 68BCCDF42A97A37D00F9B7C2 /* deckData.json */; };
+		68BCCDF72A97A3AD00F9B7C2 /* UserDefaultsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDF62A97A3AD00F9B7C2 /* UserDefaultsService.swift */; };
+		68BCCDF92A97A3D000F9B7C2 /* CreateDeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDF82A97A3D000F9B7C2 /* CreateDeckView.swift */; };
+		68BCCDFB2A97A3F600F9B7C2 /* DeckConfigView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDFA2A97A3F600F9B7C2 /* DeckConfigView.swift */; };
+		68BCCDFD2A97A41700F9B7C2 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDFC2A97A41700F9B7C2 /* TimerView.swift */; };
+		68BCCDFF2A97A43200F9B7C2 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCDFE2A97A43200F9B7C2 /* NotificationService.swift */; };
+		68BCCE012A97A48D00F9B7C2 /* HandlingErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCCE002A97A48D00F9B7C2 /* HandlingErrors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		68BCCDD62A96B6FC00F9B7C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		68BCCDD82A96B6FC00F9B7C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68BCCDDB2A96B6FC00F9B7C2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		68BCCDE22A96B7EF00F9B7C2 /* OnBoarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoarding.swift; sourceTree = "<group>"; };
+		68BCCDE42A97A22F00F9B7C2 /* CreateFlashcardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateFlashcardView.swift; sourceTree = "<group>"; };
+		68BCCDE62A97A25E00F9B7C2 /* ExemplosUserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExemplosUserDefaults.swift; sourceTree = "<group>"; };
+		68BCCDE82A97A28000F9B7C2 /* DeckListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckListView.swift; sourceTree = "<group>"; };
+		68BCCDEA2A97A29A00F9B7C2 /* DeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckView.swift; sourceTree = "<group>"; };
+		68BCCDEC2A97A2BF00F9B7C2 /* FlashcardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardView.swift; sourceTree = "<group>"; };
+		68BCCDEF2A97A30500F9B7C2 /* LoadDecksFromJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadDecksFromJson.swift; sourceTree = "<group>"; };
+		68BCCDF12A97A32B00F9B7C2 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
+		68BCCDF42A97A37D00F9B7C2 /* deckData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = deckData.json; sourceTree = "<group>"; };
+		68BCCDF62A97A3AD00F9B7C2 /* UserDefaultsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsService.swift; sourceTree = "<group>"; };
+		68BCCDF82A97A3D000F9B7C2 /* CreateDeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateDeckView.swift; sourceTree = "<group>"; };
+		68BCCDFA2A97A3F600F9B7C2 /* DeckConfigView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckConfigView.swift; sourceTree = "<group>"; };
+		68BCCDFC2A97A41700F9B7C2 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		68BCCDFE2A97A43200F9B7C2 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		68BCCE002A97A48D00F9B7C2 /* HandlingErrors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandlingErrors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +81,22 @@
 		68BCCDD32A96B6FC00F9B7C2 /* FlipIt */ = {
 			isa = PBXGroup;
 			children = (
+				68BCCDF62A97A3AD00F9B7C2 /* UserDefaultsService.swift */,
+				68BCCDF82A97A3D000F9B7C2 /* CreateDeckView.swift */,
+				68BCCE002A97A48D00F9B7C2 /* HandlingErrors.swift */,
+				68BCCDFA2A97A3F600F9B7C2 /* DeckConfigView.swift */,
+				68BCCDFC2A97A41700F9B7C2 /* TimerView.swift */,
+				68BCCDFE2A97A43200F9B7C2 /* NotificationService.swift */,
+				68BCCDE22A96B7EF00F9B7C2 /* OnBoarding.swift */,
 				68BCCDD42A96B6FC00F9B7C2 /* FlipItApp.swift */,
 				68BCCDD62A96B6FC00F9B7C2 /* ContentView.swift */,
+				68BCCDE42A97A22F00F9B7C2 /* CreateFlashcardView.swift */,
+				68BCCDE62A97A25E00F9B7C2 /* ExemplosUserDefaults.swift */,
+				68BCCDE82A97A28000F9B7C2 /* DeckListView.swift */,
+				68BCCDEA2A97A29A00F9B7C2 /* DeckView.swift */,
+				68BCCDEC2A97A2BF00F9B7C2 /* FlashcardView.swift */,
+				68BCCDEE2A97A2E400F9B7C2 /* Model */,
+				68BCCDF32A97A34A00F9B7C2 /* Resources */,
 				68BCCDD82A96B6FC00F9B7C2 /* Assets.xcassets */,
 				68BCCDDA2A96B6FC00F9B7C2 /* Preview Content */,
 			);
@@ -65,6 +109,23 @@
 				68BCCDDB2A96B6FC00F9B7C2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		68BCCDEE2A97A2E400F9B7C2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				68BCCDEF2A97A30500F9B7C2 /* LoadDecksFromJson.swift */,
+				68BCCDF12A97A32B00F9B7C2 /* Deck.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		68BCCDF32A97A34A00F9B7C2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				68BCCDF42A97A37D00F9B7C2 /* deckData.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +186,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68BCCDF52A97A37D00F9B7C2 /* deckData.json in Resources */,
 				68BCCDDC2A96B6FC00F9B7C2 /* Preview Assets.xcassets in Resources */,
 				68BCCDD92A96B6FC00F9B7C2 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +199,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68BCCDFD2A97A41700F9B7C2 /* TimerView.swift in Sources */,
+				68BCCE012A97A48D00F9B7C2 /* HandlingErrors.swift in Sources */,
+				68BCCDE72A97A25E00F9B7C2 /* ExemplosUserDefaults.swift in Sources */,
+				68BCCDF92A97A3D000F9B7C2 /* CreateDeckView.swift in Sources */,
+				68BCCDF72A97A3AD00F9B7C2 /* UserDefaultsService.swift in Sources */,
+				68BCCDFB2A97A3F600F9B7C2 /* DeckConfigView.swift in Sources */,
+				68BCCDED2A97A2BF00F9B7C2 /* FlashcardView.swift in Sources */,
+				68BCCDF22A97A32B00F9B7C2 /* Deck.swift in Sources */,
 				68BCCDD72A96B6FC00F9B7C2 /* ContentView.swift in Sources */,
+				68BCCDE32A96B7EF00F9B7C2 /* OnBoarding.swift in Sources */,
+				68BCCDEB2A97A29A00F9B7C2 /* DeckView.swift in Sources */,
+				68BCCDF02A97A30500F9B7C2 /* LoadDecksFromJson.swift in Sources */,
+				68BCCDE92A97A28000F9B7C2 /* DeckListView.swift in Sources */,
 				68BCCDD52A96B6FC00F9B7C2 /* FlipItApp.swift in Sources */,
+				68BCCDFF2A97A43200F9B7C2 /* NotificationService.swift in Sources */,
+				68BCCDE52A97A22F00F9B7C2 /* CreateFlashcardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

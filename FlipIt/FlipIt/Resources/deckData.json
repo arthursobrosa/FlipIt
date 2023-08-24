@@ -1,0 +1,133 @@
+[
+    {
+        "deckId": 1,
+        "deckName": "History",
+        "complete": false,
+        "numberPerTest": 2,
+        "flashcards": [
+            {
+                "flashcardId": 1,
+                "question": "When did World War II begin and end?",
+                "answer": "World War II began on September 1, 1939, and ended on September 2, 1945."
+            },
+
+            {
+                "flashcardId": 2,
+                "question": "Who was the first President of the United States?",
+                "answer": "George Washington was the first President of the United States, serving from 1789 to 1797."
+            },
+            
+            {
+                "flashcardId": 3,
+                "question": "What was the significance of the Magna Carta?",
+                "answer": "The Magna Carta, signed in 1215, established the principle that everyone, including the king, was subject to the law and had certain rights and liberties."
+            },
+            
+            {
+                "flashcardId": 4,
+                "question": "Who was the last pharaoh of ancient Egypt?",
+                "answer": "Cleopatra VII was the last pharaoh of ancient Egypt, ruling from 51 BCE until her death in 30 BCE."
+            },
+            
+            {
+                "flashcardId": 5,
+                "question": "What was the Renaissance?",
+                "answer": "The Renaissance was a period of cultural and intellectual rebirth that occurred in Europe between the 14th and 17th centuries. It marked a renewed interest in art, literature, science, and humanism."
+            },
+            
+            {
+                "flashcardId": 6,
+                "question": "Who wrote the Declaration of Independence?",
+                "answer": "Thomas Jefferson is credited with writing the majority of the Declaration of Independence, which was adopted by the Continental Congress on July 4, 1776."
+            },
+            
+            {
+                "flashcardId": 7,
+                "question": "What was the significance of the Industrial Revolution?",
+                "answer": "The Industrial Revolution, which began in the late 18th century, marked a major shift from agrarian societies to industrialized economies. It brought about significant technological advancements, economic growth, and social changes."
+            },
+            
+            {
+                "flashcardId": 8,
+                "question": "When and where did the Cold War take place?",
+                "answer": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union, lasting from the late 1940s to the early 1990s. It was characterized by political, ideological, and economic rivalry but did not involve direct military conflict between the two superpowers."
+            }
+        ],
+            "times": [[14,34], [15,53]],
+            "notificationActive": true,
+            "vibrate": true,
+            "alarm": true
+    },
+    
+    {
+        "deckId": 2,
+        "deckName": "Biology",
+        "complete": false,
+        "numberPerTest": 3,
+        "flashcards": [
+            {
+                "flashcardId": 1,
+                "question": "What is the process by which green plants convert sunlight into energy?",
+                "answer": "The process is called photosynthesis. In photosynthesis, plants use chlorophyll and other pigments to capture sunlight, which is then used to convert carbon dioxide and water into glucose (a form of sugar) and oxygen."
+            },
+            
+            {
+                "flashcardId": 2,
+                "question": "What is the function of red blood cells in the human body?",
+                "answer": "Red blood cells, also known as erythrocytes, are responsible for transporting oxygen from the lungs to the body's tissues and removing carbon dioxide. They contain a protein called hemoglobin, which binds to oxygen and carries it throughout the body."
+            },
+            
+            {
+                "flashcardId": 3,
+                "question": "What is DNA and what is its role in genetics?",
+                "answer": "DNA (deoxyribonucleic acid) is a molecule that contains the genetic instructions for the development and functioning of all living organisms. It carries the genetic information that determines an organism's traits and is passed from parents to offspring during reproduction."
+            },
+            
+            {
+                "flashcardId": 4,
+                "question": "What is the purpose of the mitochondria in a cell?",
+                "answer": "Mitochondria are known as the \"powerhouses\" of the cell because they generate energy in the form of ATP (adenosine triphosphate) through a process called cellular respiration. They play a crucial role in providing energy for various cellular activities."
+            },
+            
+            {
+                "flashcardId": 5,
+                "question": "What is natural selection?",
+                "answer": "Natural selection is a fundamental mechanism of evolution proposed by Charles Darwin. It refers to the process by which individuals with traits that are advantageous for their environment have a better chance of surviving and reproducing, thereby passing on those favorable traits to future generations. Over time, this leads to the gradual adaptation of species to their environment."
+            }
+        ],
+        "times": [[16,34], [12,53]],
+        "notificationActive": true,
+        "vibrate": true,
+        "alarm": true
+    },
+    
+    {
+        "deckId": 3,
+        "deckName": "Geography",
+        "complete": false,
+        "numberPerTest": 2,
+        "flashcards": [
+            {
+                "flashcardId": 1,
+                "question": "What is the longest river in the world?",
+                "answer": "The Nile River is the longest river in the world, stretching approximately 4,135 miles (6,650 kilometers) across northeastern Africa, from its source in Burundi to its delta in Egypt."
+            },
+            
+            {
+                "flashcardId": 2,
+                "question": "What is the capital city of Australia?",
+                "answer": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory, between Sydney and Melbourne."
+            },
+            
+            {
+                "flashcardId": 3,
+                "question": "What is the tallest mountain in the world?",
+                "answer": "Mount Everest is the tallest mountain in the world. It is part of the Himalayas and reaches a height of 29,032 feet (8,848 meters) above sea level."
+            }
+        ],
+        "times": [[10,34], [19,53]],
+        "notificationActive": true,
+        "vibrate": true,
+        "alarm": true
+    }
+]
